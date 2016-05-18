@@ -1,0 +1,3 @@
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\PROJETOS\AutoCompWithNormalization\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe.config
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\PROJETOS\AutoCompWithNormalization\AutoComplete\AutoComplete\obj\Debug\AutoComplete.exe
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\PROJETOS\AutoCompWithNormalization\AutoComplete\AutoComplete\obj\Debug\AutoComplete.pdb

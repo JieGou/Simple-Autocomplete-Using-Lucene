@@ -1,0 +1,13 @@
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\bin\Release\AutoComplete.exe.config
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\obj\Release\AutoComplete.exe
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\obj\Release\AutoComplete.pdb
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\bin\Release\AutoComplete.exe
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\bin\Release\AutoComplete.pdb
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\bin\Release\Lucene.Net.dll
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\bin\Release\Lucene.Net.pdb
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\bin\Release\Lucene.Net.xml
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\obj\Release\AutoCompleteWithThreads.csprojResolveAssemblyReference.cache
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\obj\Release\AutoComplete.frm_autoComplete.resources
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\obj\Release\AutoComplete.Properties.Resources.resources
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoCompleteWithThreads\AutoComplete\AutoComplete\obj\Release\AutoCompleteWithThreads.csproj.GenerateResource.Cache

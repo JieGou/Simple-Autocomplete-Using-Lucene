@@ -1,0 +1,13 @@
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe.config
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\bin\Debug\AutoComplete.exe
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\bin\Debug\AutoComplete.pdb
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\bin\Debug\Lucene.Net.dll
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\bin\Debug\Lucene.Net.pdb
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\bin\Debug\Lucene.Net.xml
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csprojResolveAssemblyReference.cache
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\obj\Debug\AutoComplete.Properties.Resources.resources
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\obj\Debug\AutoComplete.csproj.GenerateResource.Cache
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\obj\Debug\AutoComplete.exe
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\obj\Debug\AutoComplete.pdb
+C:\Users\gmath\OneDrive\IC\Autocomplete\Projeto-Autocomplete-\AutoComplete\AutoComplete\obj\Debug\AutoComplete.frm_autoComplete.resources
